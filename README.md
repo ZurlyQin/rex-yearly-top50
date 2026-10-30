@@ -4,7 +4,7 @@ Rex / Forward 模块，按上映年份选择 2020—2025 年，依据 TMDB 当�
 
 ## 预览
 
-![Rex 年度电影榜单预览](assets/yearly-top-movies-preview.jpg)
+![Rex 年度电影榜单预览](yearly-top-movies-preview.jpg)
 
 预览图中的并排卡片与标题由 Rex 首页配置；导入模块后可自行配置展示。
 
